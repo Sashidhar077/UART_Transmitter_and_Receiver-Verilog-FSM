@@ -1,0 +1,25 @@
+# Simulation outputs
+*.vcd
+*.lxt
+*.fst
+uart_sim
+
+# Icarus Verilog compiled output
+*.out
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Vivado generated files (if used later)
+*.jou
+*.log
+*.str
+*.xpr
+*.bit
+*.bin
+xsim.dir/
+.Xil/

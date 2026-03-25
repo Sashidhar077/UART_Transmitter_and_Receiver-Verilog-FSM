@@ -1,0 +1,13 @@
+# Simulation output files
+*.vcd
+*.out
+uart_sim
+
+# Editor files
+.vscode/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
